@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9HltQD6oOuWalx5xPbkB-7" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.customer_360;" vertex="1" parent="1">
-          <mxGeometry x="60" y="151" width="60" height="54.6" as="geometry" />
+          <mxGeometry x="50" y="170" width="60" height="54.6" as="geometry" />
         </mxCell>
         <mxCell id="9HltQD6oOuWalx5xPbkB-8" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.integration2;" vertex="1" parent="1">
           <mxGeometry x="200" y="161" width="60" height="60" as="geometry" />
